@@ -5,3 +5,8 @@ body{
   background-color: #66BFBF;
   color: white;
 }
+.button{
+  background-color: yellow;
+  border-radius: 12px;
+  padding: 32px 16px;
+}
